@@ -14,7 +14,7 @@ Create a local virtual environment:
 
 `python3 -m venv .venv`
 
-`source .venv/source/activate`
+`source .venv/bin/activate`
 
 Install packages:
 
